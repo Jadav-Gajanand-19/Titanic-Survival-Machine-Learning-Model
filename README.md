@@ -1,7 +1,7 @@
 🚢 Titanic Survival Prediction using Machine Learning
 📌 Project Overview
 This project aims to predict the survival of Titanic passengers based on historical data using machine learning classification models. By analyzing features like passenger class, gender, age, and family size, the model determines the likelihood of survival.
-
+click here : https://titanic-survival-machine-learning-model-l27rqy4r8eqdmno7j4opeo.streamlit.app/
 📂 Dataset
 The dataset is sourced from the Kaggle Titanic Dataset. It includes:
 
