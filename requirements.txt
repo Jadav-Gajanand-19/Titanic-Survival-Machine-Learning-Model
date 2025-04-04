@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyterlab  # Optional, for running notebooks
+notebook    # Optional, if you're using Jupyter
+joblib      # For saving/loading the model
